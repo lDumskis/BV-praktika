@@ -13,9 +13,7 @@ In the project directory, you can run:
 
 ### `git clone https://github.com/lDumskis/Vilnius-College-Internship-Project.git` - this will download the project to your computer
 ### `npm install` - this will install all the packages
-### `npm start` - this will launch the project on your local environment:
-
-[http://localhost:3000](http://localhost:3000) to view it in the browser.
+### `npm start` - this will launch the project on your local environment: [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
