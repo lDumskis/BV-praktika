@@ -120,13 +120,15 @@ export const MenuData = [
                 href: "/about"
             },
             {
-                name: "Contact Us One",
+                name: "Contact Us",
                 href: "/contact-one"
             },
+            /*
             {
                 name: "Contact Us Two",
                 href: "/contact-two"
             },
+            */
             {
                 name: "Frequently Questions",
                 href: "/faqs"
