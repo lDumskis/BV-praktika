@@ -87,11 +87,12 @@ export const MenuData = [
             {
                 name: " Email Template 3",
                 href: "/email-template-three"
-            },*/
+            },
             {
                 name: " LookBook",
                 href: "/lookbooks"
             },
+            */
             {
                 name: "Invoice 1",
                 href: "/invoice-one"
