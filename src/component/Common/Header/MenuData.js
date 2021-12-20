@@ -25,25 +25,28 @@ export const MenuData = [
                 name: "Other Pages",
                 children: [
                     {
-                        name: "Cart View One",
+                        name: "Cart View",
                         href: "/cart"
                     },/*
                     {
                         name: "Cart View Two",
                         href: "/cartTwo"
-                    },*/
+                    },
                     {
                         name: "Empty Cart",
                         href: "/empty-cart"
                     },
+                    */
                     {
-                        name: "Checkout View One",
+                        name: "Checkout View",
                         href: "/checkout-one"
                     },
+                    /*
                     {
                         name: "Checkout View Two",
                         href: "/checkout-two"
                     },
+                    */
                     {
                         name: "Wishlist",
                         href: "/wishlist"
@@ -133,10 +136,12 @@ export const MenuData = [
                 name: "Frequently Questions",
                 href: "/faqs"
             },
+            /*
             {
                 name: "Coming Soon",
                 href: "/coming-soon"
             },
+            */
             {
                 name: "Privacy Policy",
                 href: "/privacy-policy"
